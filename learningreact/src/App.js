@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import State from './Components/Practic/State';
+import State from './Components/State Practic/State';
 
 function App() {
   return (
